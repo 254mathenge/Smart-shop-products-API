@@ -1,8 +1,8 @@
-## step 1: Set Up the Project
+# Running The Project
+##  Step 1: Set Up the Project
 <ul>
 <li>Create a project directory:</li>
 <li>cd express-postgres-api</li>
-
 <li>Initialize a Node.js project:</li>
 npm init -y
 
@@ -10,7 +10,7 @@ npm init -y
 npm install express pg dotenv
 </ul>
 
-## step 2:Set Up PostgreSQL Database
+## Step 2:Set Up PostgreSQL Database
 <ul>
 <li>Create a new database:</li>
 <li>createdb products </li>
